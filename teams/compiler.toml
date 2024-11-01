@@ -107,6 +107,3 @@ include-subteam-members = true
 
 [[zulip-groups]]
 name = "T-compiler"
-
-[[zulip-groups]]
-name = "T-compiler/meeting"
